@@ -1,6 +1,5 @@
 ## ✨WILLIAM.FRIERSON✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxlre&show_icons=true&theme=radical)
 # 💫 About Me:
 I am William Frierson as I am 16 years old. as this is my first time <br>taking a coding class as this all new as so i am trying to keep up with <br>everyone as to not fall behind or give up
 
