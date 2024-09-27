@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I am William Frierson as I am 16 years old. as this is my first time <br>taking a coding class as this all new as so i am trying to keep up with <br>everyone as to not fall behind or give up
-as i know thats very dfficult but i am very determine persom as i want to improve as  so i will not quit 
+as i know thats very dfficult but i am very determine persom as i want to improve as  so i will not quit as  i wiah to get into a career invlong cooding into the futre as so thats why i try to learn as much as possible and as much i can 
 
 
 
