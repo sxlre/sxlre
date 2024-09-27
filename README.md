@@ -2,6 +2,9 @@
 
 # 💫 About Me:
 I am William Frierson as I am 16 years old. as this is my first time <br>taking a coding class as this all new as so i am trying to keep up with <br>everyone as to not fall behind or give up
+as i know thats very dfficult but i am very determine persom as i want to improve as  so i will not quit 
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sxlre&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -10,6 +13,7 @@ I am William Frierson as I am 16 years old. as this is my first time <br>taking 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sxlre&icon=8&color=9)](https://visitcount.itsvg.in)
+
 
 
 ## 🏆 GitHub Trophies
