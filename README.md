@@ -11,4 +11,11 @@ I am William Frierson as I am 16 years old. as this is my first time <br>taking 
 ---
 [![](https://visitcount.itsvg.in/api?id=sxlre&icon=8&color=9)](https://visitcount.itsvg.in)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sxlre&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
